@@ -1,0 +1,26 @@
+insert into merna_jedinica values(0,"gram","g");
+insert into merna_jedinica values(0,"litar","l");
+insert into recept values(0,"bakin kolac","kuvaj");
+insert into recept values(0,"torta","pravi");
+insert into sastojak values(0,"krem");
+insert into sastojak values(0,"jaja");
+insert into sastojak values(0,"brasno");
+insert into sastojak values(0,"secer");
+insert into sastojak values(0,"mleko");
+insert into sastojak values(0,"so");
+insert into sastojak values(0,"sok");
+insert into sastojak values(0,"ulje");
+insert into sastojak values(0,"prasak");
+insert into sastojak values(0,"jogurt");
+insert into stavka_recepta values (0, 10,1,1,1);
+insert into stavka_recepta values (0, 20,1,1,2);
+insert into stavka_recepta values (0, 20,1,1,3);
+insert into stavka_recepta values (0, 20,1,1,4);
+insert into stavka_recepta values (0, 20,2,1,5);
+insert into stavka_recepta values (0, 20,1,1,6);
+
+insert into stavka_recepta values (0, 10,1,2,1);
+insert into stavka_recepta values (0, 20,1,2,2);
+insert into stavka_recepta values (0, 20,1,2,3);
+insert into stavka_recepta values (0, 20,1,2,4);
+insert into stavka_recepta values (0, 20,2,2,5);
